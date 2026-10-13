@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 447 447">
+  <g fill="#302e2b">
+    <path d="M155 83h77v14h-30v78h-17V97h-30z"/>
+    <path d="m262 92 5 3-80 115-5-4z"/>
+    <path d="M283 128c-13 0-23 5-30 15l-13-9c10-15 25-23 43-23 13 0 24 5 33 14l-12 12c-6-6-13-9-21-9z"/>
+    <path d="M228 163c4 24 21 40 44 40 12 0 22-4 30-12l12 12c-11 12-25 18-43 18-33 0-57-22-61-54z"/>
+  </g>
+  <text x="223.5" y="273" fill="#302e2b" font-family="Impact, 'Arial Narrow', sans-serif" font-size="39" font-weight="700" letter-spacing="6" text-anchor="middle" textLength="278" lengthAdjust="spacingAndGlyphs">TECHIE CREW</text>
+  <path d="m149 357 40-57 15 9-40 57z" fill="#22b66a"/>
+  <path d="m192 357 40-57 15 9-40 57z" fill="#e53d3d"/>
+  <path d="m236 357 40-57 15 9-40 57z" fill="#f2d34e"/>
+</svg>

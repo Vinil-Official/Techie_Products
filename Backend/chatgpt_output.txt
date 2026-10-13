@@ -1,0 +1,38 @@
+New chat
+Images
+Plugins
+Deep research
+See plans and pricing
+Help
+Settings
+Get responses tailored to you
+
+Log in to get answers based on saved chats, plus create images and upload files.
+
+Log in
+ChatGPT
+Log in
+Sign up for free
+You said:
+
+Give me 5 real estate businesses in Nagercoil.
+
+Return ONLY JSON in this format:
+
+[
+  {
+    "name": "Business Name",
+    "location": "Location",
+    "contact": "Phone number",
+    "own_website": true
+  }
+]
+
+Do not add markdown.
+Do not add explanations.
+
+ChatGPT said:
+
+ChatGPT is AI and can make mistakes.
+
+Chat with ChatGPT
